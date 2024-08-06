@@ -1,16 +1,20 @@
-Formula 1 Driver Performance Analysis (2023-2024)
+# Formula 1 Driver Performance Analysis (2023-2024)
 
-Overview
-TODO
+## Table of Contents
 
-Data
-TODO
+- [Overview]()
+- [Data]()
+- [Results]()
+- [Installation]()
+- [Acknowledgements]()
 
-Results
-TODO
+## Description 
 
-Installation
-TODO
+## Data
 
-Acknowledgements
-TODO
+## Results
+
+## Installation
+
+## Acknowledgements
+- [Kaggle](https://www.kaggle.com/) for providing the Formula 1 World Championship Dataset.  
