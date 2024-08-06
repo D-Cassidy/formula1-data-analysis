@@ -5,8 +5,8 @@
 - [Overview](#Description)
 - [Data](#Data)
 - [Results](#Results)
-- [Installation](Installation)
-- [Acknowledgements](Acknowledgements)
+- [Installation](#Installation)
+- [Acknowledgements](#Acknowledgements)
 
 ## Description 
 TODO - Description of intention of project.
